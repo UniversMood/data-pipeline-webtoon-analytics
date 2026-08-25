@@ -1,6 +1,6 @@
 import duckdb
 
-# On se connecte à DuckDB (en mémoire, zéro configuration)
+# On se connecte à DuckDB
 con = duckdb.connect()
 
 print("="*50)
