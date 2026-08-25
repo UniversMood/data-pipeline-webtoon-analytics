@@ -1,0 +1,17 @@
+# Environnement virtuel
+venv/
+env/
+
+# Fichiers cache Python
+__pycache__/
+*.pyc
+
+# Base de données SQLite (si elle est vide, on la recréera, mais garde-la si tu veux)
+# history.db
+
+# Dossiers d'IDE
+.vscode/
+.idea/
+
+# Fichiers systèmes
+.DS_Store

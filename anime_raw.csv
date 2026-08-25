@@ -1,0 +1,6 @@
+title,score,aired,genres,episodes,members
+"Fullmetal Alchemist: Brotherhood",9.09,"{'from': '2009-04-05', 'to': '2010-07-04'}","[{'name': 'Action'}, {'name': 'Adventure'}]",64,2691234
+"Steins;Gate",9.07,"{'from': '2011-04-06', 'to': '2011-09-14'}","[{'name': 'Sci-Fi'}, {'name': 'Thriller'}]",24,1876543
+"Attack on Titan",9.04,"{'from': '2013-04-07', 'to': '2013-09-29'}","[{'name': 'Action'}, {'name': 'Fantasy'}]",25,2345678
+"Death Note",8.95,"{'from': '2006-10-04', 'to': '2007-06-27'}","[{'name': 'Mystery'}, {'name': 'Psychological'}]",37,1987654
+"One Piece",8.92,"{'from': '1999-10-20', 'to': ''}","[{'name': 'Action'}, {'name': 'Adventure'}]",1000,3456789
