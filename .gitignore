@@ -6,7 +6,7 @@ env/
 __pycache__/
 *.pyc
 
-# Base de données SQLite (si elle est vide, on la recréera, mais garde-la si tu veux)
+# Base de données SQLite 
 # history.db
 
 # Dossiers d'IDE
